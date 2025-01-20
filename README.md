@@ -34,7 +34,7 @@ ROUGE-L Sum | 28.42% |
 
 Below is a snapshot of the bot's conversational performance.
 
-<p align="center"> <img src="https://github.com/reshalfahsi/qa-gpt2-lora/blob/master/assets/qualitative.png" alt="qualitative" > <br /> Testing the model on a Winograd schema question. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/medbot-instruct-conversational/blob/master/assets/qualitative.png" alt="qualitative" > <br /> Conversation about Epilepsy with MedBot. </p>
 
 
 ## Credit
