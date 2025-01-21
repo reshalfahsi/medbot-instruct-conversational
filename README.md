@@ -25,7 +25,7 @@ Here is the overview of the bot's quantitative performance.
 Test Metric | Score  |
 ----------- | -----  |
 ROUGE-1     | 35.98% |
-ROUGE-1     | 19.67% |
+ROUGE-2     | 19.67% |
 ROUGE-L     | 27.69% |
 ROUGE-L Sum | 28.42% |
 
